@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "path": "01-git.html",
+      "title": "El sistema de control de versiones Git",
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
+      "contents": "\r\n\r\nContents\r\nAcerca de Git\r\n\r\nAcerca de Git\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-21T22:38:20-06:00"
+    },
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-21T22:07:55-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "GF0604 Procesamiento de datos geográficos 2021-I. Lección 05",
+      "description": "Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica. Primer ciclo lectivo 2021. Lección 05.\n",
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
+      "contents": "\r\n\r\nContents\r\nResumen\r\nTrabajo previo\r\nContenidos\r\n\r\nResumen\r\nEn esta lección, se estudiará el sistema de control de versiones Git.\r\nTrabajo previo\r\nRealice el tutorial The Best Git Tutorials.\r\nInstale el sistema para control de versiones Git en su computadora.\r\nInstale R y RStudio en su computadora (es importante hacerlo en ese orden). Puede aceptar las opciones que los programas instaladores le presentan por defecto. Si lo desea, puede ver los siguientes videos que muestran detalladamente el proceso de instalación en los sistemas operativos Windows, macOS y Linux (Ubuntu).\r\nContenidos\r\n01 El sistema de control de versiones Git\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-21T22:38:40-06:00"
+    }
+  ],
+  "collections": []
+}
