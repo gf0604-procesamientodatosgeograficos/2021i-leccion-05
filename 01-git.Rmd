@@ -67,8 +67,8 @@ Para seguir este ejemplo:
 ```
 # 0. Especificación del nombre y de la dirección de correo del usuario.
 # Debe modificar la dirección de correo y el nombre del usuario con sus propios datos.
-$ git config --global user.email "usuario@correo.com"
-$ git config --global user.name "Nombre de usuario"
+$ git config --global user.email usuario@correo.com
+$ git config --global user.name usuariogithub
 # Para revisar:
 $ git config --global --list
 
