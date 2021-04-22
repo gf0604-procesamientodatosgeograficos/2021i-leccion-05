@@ -65,6 +65,13 @@ Para seguir este ejemplo:
 4. Luego, ejecute los siguientes comandos desde la la ventana _Terminal_ de RStudio. Nota: las líneas que empiezan con  ```# ``` son comentarios.  
 
 ```
+# 0. Especificación del nombre y de la dirección de correo del usuario.
+# Debe modificar la dirección de correo y el nombre del usuario con sus propios datos.
+$ git config --global user.email "usuario@correo.com"
+$ git config --global user.name "Nombre de usuario"
+# Para revisar:
+$ git config --global --list
+
 # 1. Revisión de los archivos con modificaciones.
 $ git status
 
