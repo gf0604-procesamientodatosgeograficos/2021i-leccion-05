@@ -62,9 +62,7 @@ Para seguir este ejemplo:
 1. Bifurque (_fork_) a su cuenta en GitHub el repositorio localizado en la dirección [https://github.com/gf0604-procesamientodatosgeograficos/2021i-tutorial-git-repo-ejemplo](https://github.com/gf0604-procesamientodatosgeograficos/2021i-tutorial-git-repo-ejemplo).  
 2. Con la opción *File - New Project - Version Control - Git* de RStudio, clone a su computadora el repositorio que acaba de bifurcar.
 3. Con el editor de RStudio, abra el archivo ```README.md``` y agregue una línea.  
-4. Luego, ejecute los siguientes comandos desde la la ventana _Terminal_ de RStudio.  
-
-Nota: las líneas que empiezan con  ```# ``` son comentarios.
+4. Luego, ejecute los siguientes comandos desde la la ventana _Terminal_ de RStudio. Nota: las líneas que empiezan con  ```# ``` son comentarios.  
 
 ```
 # 1. Revisión de los archivos con modificaciones.
